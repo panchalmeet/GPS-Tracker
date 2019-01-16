@@ -1,0 +1,5 @@
+[19-Feb-2018 09:41:31 Europe/London] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/chaxutec/public_html/application/views/principal_mail.php on line 51
+[19-Feb-2018 09:42:03 Europe/London] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/chaxutec/public_html/application/views/principal_mail.php on line 51
+[19-Feb-2018 09:42:35 Europe/London] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/chaxutec/public_html/application/views/principal_mail.php on line 51
+[19-Feb-2018 11:11:08 Europe/London] PHP Parse error:  syntax error, unexpected '" says "' (T_CONSTANT_ENCAPSED_STRING) in /home/chaxutec/public_html/application/controllers/Members.php on line 138
+[19-Feb-2018 11:11:34 Europe/London] PHP Parse error:  syntax error, unexpected '" says "' (T_CONSTANT_ENCAPSED_STRING) in /home/chaxutec/public_html/application/controllers/Members.php on line 138
